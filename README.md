@@ -55,6 +55,3 @@ python enhanced_disney_witch_game.py
 📸 Screenshot
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/d6500468-b569-47c4-a4a6-e96ac06d89b1" />
 
-
-📜 License
-This project is licensed under the MIT License.
